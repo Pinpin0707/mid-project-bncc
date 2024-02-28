@@ -1,2 +1,2 @@
-# goldenlearning.github.io
-goldenlearning adalah sebuah website E-learning, dibuat untuk keperluan tugas bncc mid project
+# Golden Learning
+is a prototype E-learning website that contains many subjects from various fields. This is BNCC's Mid Project assignment 
